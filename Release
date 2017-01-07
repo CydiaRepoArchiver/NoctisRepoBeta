@@ -1,0 +1,9 @@
+Origin: Noctis Glases Beta Repo
+Label: Noctis Glases Beta Repo
+Suite: stable
+Version: 1.0
+Codename: NoctisGlases
+Architectures: iphoneos-arm
+Componoments: main
+Description: No
+MD5Sum:
